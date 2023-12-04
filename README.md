@@ -1,1 +1,1 @@
-# aws-web-scraping-project
+# amazon-web-scraping-python-project
